@@ -1,0 +1,24 @@
+#titulo-um{
+    color:red;
+    font-variant: small-caps;
+}
+
+.primeira-frase{
+    color:brown;
+    font-size: larger;
+}
+
+.titulo-2{
+    color:purple;
+    font-size: larger;
+}
+
+.button{
+    display: inline;
+    color:blueviolet;
+    font-size: medium;
+    width: 100%;
+    height: 50px;
+    margin:0 auto;
+}
+
